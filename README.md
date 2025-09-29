@@ -39,7 +39,7 @@ This Python project allows the user to:
 
 1. Certifique-se de ter Python 3 instalado / Make sure Python 3 is installed.  
 2. Clone o repositório / Clone this repository:  
-   git clone https://github.com/pnatheanalyst/smart-shopping-list-python-.git
+   git clone https://github.com/pnatheanalyst/Smart-Shopping-List-Python-.git
 3. Entre na pasta do projeto / Go to project folder:
    cd smart-shopping-list
 4. Execute o script Python / Run the Python script:
